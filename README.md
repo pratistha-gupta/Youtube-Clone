@@ -18,9 +18,10 @@ This is YouTube clone created using React.js for project purpose.
 
 Open the [.env.local.example](/.env.local.example) and fill in your Rapid API Key of Youtube V3 API which you can get from [here](https://rapidapi.com/ytdlfree/api/youtube-v31/) then save it as .env.local the run the following command:
 
-
+```
 bash
 npm run dev
+```
 
 # or
 yarn run dev
