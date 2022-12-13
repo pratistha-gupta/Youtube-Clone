@@ -23,4 +23,7 @@ bash
 npm run dev
 ```
 
+### To sart the project
+
+```npm run start```
 
