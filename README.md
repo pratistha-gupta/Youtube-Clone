@@ -23,5 +23,4 @@ bash
 npm run dev
 ```
 
-# or
-yarn run dev
+
